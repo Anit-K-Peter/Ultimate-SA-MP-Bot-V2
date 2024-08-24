@@ -1,0 +1,31 @@
+{
+  "name": "gtasampbot",
+  "version": "1.0.0",
+  "description": "Combines server status updates, FAQ bot, and Faction/Gang RP Bot.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/rest": "^2.3.0",
+    "@types/node": "^18.0.6",
+    "axios": "^0.24.0",
+    "chalk": "^5.3.0",
+    "cheerio": "^1.0.0-rc.11",
+    "discord-buttons": "^4.0.0",
+    "discord.js": "^13.17.1",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "fetch": "^1.1.0",
+    "figlet": "^1.7.0",
+    "fs": "^0.0.1-security",
+    "moment": "^2.30.1",
+    "moment-duration-format": "^2.3.2",
+    "quick.db": "^9.1.7",
+    "sourcebin_js": "^0.0.3-ignore",
+    "ws": "^8.18.0"
+  }
+}
