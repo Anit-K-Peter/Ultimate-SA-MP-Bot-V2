@@ -1,0 +1,67 @@
+{
+  "WILL NEVER LOSE": {
+    "alias": ".",
+    "boss": "1108624596694994954",
+    "color": "#fffff",
+    "skin": "202",
+    "colorName": "black",
+    "channelId": "1265639897654366376",
+    "roleId": "1265639895544762381"
+  },
+  "RIVAL - X": {
+    "alias": "RIX",
+    "boss": "809082659501375499",
+    "color": "FF0000",
+    "skin": "235",
+    "colorName": "RED"
+  },
+  "RUSSIAN VALLI-X": {
+    "alias": "RVX",
+    "boss": "906563869202329610",
+    "color": "00FFFF",
+    "skin": "136",
+    "colorName": "Cyan"
+  },
+  "Latin Eagles": {
+    "alias": "EXE",
+    "boss": "834682846933024789",
+    "color": "9900ff",
+    "skin": "132",
+    "colorName": "Dark Violet"
+  },
+  "Vampires": {
+    "alias": "Vampires",
+    "boss": "1097496701566206044",
+    "color": "8B0000",
+    "skin": "208",
+    "colorName": "Dark Red"
+  },
+  "KVA": {
+    "alias": "KVA",
+    "boss": "811127912333967406",
+    "color": "008000",
+    "skin": "261",
+    "colorName": "Green"
+  },
+  "Mexican Cartelz": {
+    "alias": "MCZ",
+    "boss": "1134119691829387545",
+    "color": "00008B",
+    "skin": "230/294/113",
+    "colorName": "Dark Blue"
+  },
+  "VIETNAM COLONY": {
+    "alias": "VietC",
+    "boss": "788085773643415563",
+    "color": "FFDBBB",
+    "skin": "126",
+    "colorName": "Light Orange"
+  },
+  "Bankai": {
+    "alias": "Bankai",
+    "boss": "1086604089787416646",
+    "color": "FFC0CB",
+    "skin": "212",
+    "colorName": "Pink"
+  }
+}

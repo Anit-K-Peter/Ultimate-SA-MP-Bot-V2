@@ -1,0 +1,6 @@
+{
+    "Vehicle": ["Car", "Truck", "Motorcycle"],
+    "House": ["Apartment", "Mansion", "Cabin"],
+    "VIP": ["VIP Membership", "Premium Access"],
+    "Misc": ["Food", "Drink", "Accessory"]
+  }
