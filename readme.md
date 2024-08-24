@@ -1,7 +1,4 @@
 <h1 align="center"><img src="./data/samp.jpg" width="30px"> Ultimate Samp Bot <img src="./data/samp.jpg" width="30px"></h1>
-
-
-<a href="https://discord.gg/fdenuPFtKk"><img src="https://discord.com/api/guilds/1036113714019057744/widget.png?style=banner2"></a>
  
 
 **Important Notice:** This bot supports a wide variety of ID types for different functionalities. However, due to the nature of its development, the organization and structure of these IDs may not be clearly or correctly arranged in the code. As such, users may encounter difficulties in understanding or using specific IDs without additional assistance.
