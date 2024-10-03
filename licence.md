@@ -1,4 +1,4 @@
-# License for Discord-MusicBot
+# License for Discord
 
 - The credits should not be changed.Even through there is not written as many
 - The bot-code should be used for **public community** and **personal server** only.
