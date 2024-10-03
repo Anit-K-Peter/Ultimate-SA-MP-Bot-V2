@@ -1,6 +1,6 @@
 const status = "AUTOMATIC";
 const botName = "Ultimate Samp Bot";
-const Text = "Mortex Crew";
+const Text = "BY Sebastian";
 const version = "Latest@ v20.12.2";
 const startTime = Date.now();
 
